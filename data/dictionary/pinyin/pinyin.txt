@@ -16791,7 +16791,7 @@
 白发苍苍=bai2,fa4,cang1,cang1
 白发苍颜=bai2,fa4,cang1,yan2
 白发青衫=bai2,fa4,qing1,shan1
-白干=bai2,qian2
+白干=bai2,gan1
 白干儿=bai2,gan1,er2
 白晃晃=bai2,huang3,huang3
 白术=bai2,zhu2
@@ -17163,7 +17163,7 @@
 眽=mo4
 眾=zhong4
 眿=mo4
-着=zhuo2,zhao2,zhao1,zhe5
+着=zhe5,zhuo2,zhao2,zhao1
 着三不着两=zhao2,san1,bu4,zhao2,liang3
 着书立说=zhu4,shu1,li4,shuo1
 着人办理=zhuo2,ren2,ban4,li4
